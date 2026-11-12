@@ -310,7 +310,6 @@ with st.sidebar:
         <div style="text-align: center; font-size: 0.75rem; color: #94A3B8; padding-top: 10px;">
             <b>College Mini Project</b><br>
             AI-Based Placement Prediction<br>
-            Frontend • Day 2 Completed
         </div>
         """,
         unsafe_allow_html=True,
